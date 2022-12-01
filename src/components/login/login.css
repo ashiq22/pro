@@ -1,0 +1,59 @@
+img {
+  width: 80px;
+}
+
+form {
+  padding: 30px 30px;
+}
+
+
+button {
+  width: 100%;
+}
+
+div a{
+  color: black;
+  text-decoration: none;
+
+}
+
+.logohobbyt{
+  width: 45%;
+  position: relative;
+  height: 130px;
+  margin-left: 830px;
+  margin-top: 40px;
+  border-radius: 50%;
+  border: 2px green ;
+}
+
+
+
+.left-container {
+  position: absolute;
+  padding: 200px 0 0 50px;
+  width: 49%;
+  left: 0;
+}
+
+.lform-container {
+  background-color: white;
+  width: 70%;
+  margin: auto;
+  margin-top: 200px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.form-header {
+  font-family: 'Cabin';
+  color: black;
+}
+
+.form-paragraph{
+  margin-top: 20px;
+font-family: 'Lato', sans-serif;
+font-size: 1.5rem;
+color: black;
+margin-left: 200px;
+}
