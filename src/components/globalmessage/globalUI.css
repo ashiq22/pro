@@ -14,6 +14,7 @@ label{
 }
 .tutor-form{
 margin-left: 17%;
+    background-color: #ededed !important;
 }
 .Chat{
     flex:0.5;
