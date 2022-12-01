@@ -1,5 +1,10 @@
-body {
-  background-color: #f1f3f8 !important;
+body{
+  background-image: url('./wys.jpg') ;
+  position: relative;
+}
+body::before {
+ 
+  opacity: 60%;
 }
 
 form {
