@@ -1,6 +1,6 @@
 .widgets{
     flex: 0.3;
-    background-color: white;
+    background-color: #ededed;
     border-left: 4px solid var(--bg-color);
 }
 .widgets1{
