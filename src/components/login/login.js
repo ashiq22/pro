@@ -78,11 +78,12 @@ function LogIn({ storeToken }) {
                 {/* Left container  */}
 
                 <div className="col-6">
+                <img className="logohobbyt" src={logo} alt="Sunny Social logo" />
                     <div className="left-container">
 
                         {/* website logo */}
 
-                        <img className="logohobbyt" src={logo} alt="HobbyT logo" />
+                        
 
                         {/* Description */}
 
