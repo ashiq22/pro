@@ -1,6 +1,6 @@
 .widgets{
     flex: 0.3;
-    background-color: #ededed;
+    background-color: white;
     border-left: 4px solid var(--bg-color);
 }
 .widgets1{
@@ -11,6 +11,7 @@
   padding: 3px;
   border: 1px solid black !important;
   border-radius: 20px;
+  background-color: #ededed !important;
 }
 .head{
   font-size: 1.4rem;
