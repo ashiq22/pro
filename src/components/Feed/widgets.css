@@ -9,7 +9,7 @@
 .top-post{
   margin: 10px 2px;
   padding: 3px;
-  border: 1px solid black !important;
+  border: 1px solid #ededed !important;
   border-radius: 20px;
   background-color: #ededed !important;
 }
