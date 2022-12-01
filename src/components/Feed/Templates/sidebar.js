@@ -36,7 +36,7 @@ function Sidebar() {
             <a href="/chat">
                 <SidebarOption
                     Icon={ChatIcon}
-                    text="Chat"
+                    text="Global Chat"
                 />
             </a>
             <a href="/community">
