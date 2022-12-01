@@ -1,7 +1,9 @@
 import React, { Component } from 'react'  
 import Carousel from 'react-bootstrap/Carousel'  
 import "./carousel.css"
-
+import yourimage from "./carousel1.jpg"
+import myimage from "./carousel2.jpg"
+import thirdimage from "./carousel3.jpg"
 
 
   /**
@@ -24,10 +26,10 @@ function BootstrapCarousel(props){
 
                          className="d-block w-100"  
 
-                        src={'https://cdn3.iconfinder.com/data/icons/google-suits-1/32/30_adsense_money_earn_advertise_ads_google-512.png'}  />  
+                         src ={yourimage}  />  
 
                            <Carousel.Caption>  
-                           <h1 className="ad">Sunny Social is looking for advertisements</h1>
+                           <h1 className="ad"></h1>
                                  </Carousel.Caption>  
 
                                  </Carousel.Item  >  
@@ -38,10 +40,10 @@ function BootstrapCarousel(props){
 
                                    className="d-block w-100"  
 
-                                    src={"https://lh3.googleusercontent.com/proxy/3W3yfWR_zguwbUx8e912_njdstOH3MPzPKpadJUcucr7b-R-WLRQ5d-GqWIlGvnaggL_e_eFA54OJ8VN9NxcySu-qXjNzCWoUqosovYSXk9NO5OyBCs0baLCDfEdoyyiKEHgmgb_pYqgdjPzsA"}    />  
+                                    src={myimage}    />  
 
                                        <Carousel.Caption>  
-                                   <h3 className="conn">Stay connected with Sunny Social</h3>  
+                                   <h3 className="conn"></h3>  
 
                                       </Carousel.Caption>  
 
@@ -53,12 +55,10 @@ function BootstrapCarousel(props){
 
                                         className="d-block w-100"  
 
-                                         src={"https://www.fg-a.com/wallpapers/2021-black-random-stones.jpg"}   />  
+                                         src={thirdimage}   />  
 
                                         <Carousel.Caption>  
-                                          <h3> #BlackLivesMatter</h3>
-                                          <p>Sunny Social stands for justice, freedom and racial equality</p>  
-
+                                         
                                           </Carousel.Caption>  
 
                                          </Carousel.Item>  
