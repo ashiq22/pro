@@ -21,7 +21,7 @@ margin-left: 17%;
     overflow-y: scroll;
     border-right: 2px solid white;
     padding-right: 10px;
-    background-image: url('./1288076.jpg');
+    background-image: url('./1288076.jpg') !important;
 }
 
 .Chat-box{
